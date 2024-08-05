@@ -1,8 +1,8 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding"  width=400 src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
-<p align="left"> <img src="https://i.pinimg.com/originals/ba/9c/a1/ba9ca1e81caf80f5540516e4e20df473.gif" alt="akashprinceakash" /> </p>
+<h3 align="center">A passionate web developer </h3>
+<img align="right" alt="Coding"  width=400 src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashprinceakash&label=Profile%20views&color=0e75b6&style=flat" alt="akashprinceakash" /> </p>
 
 - 🌱 I’m currently learning **React**
 
